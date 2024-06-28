@@ -1,8 +1,8 @@
 {
   "name": "com.threeyes.core",
   "displayName": "Threeyes Core",
-  "description": "The core library of the Threeyes plugin",
-  "version": "1.0.0",
+  "description": "The core library of the Threeyes plugin.",
+  "version": "1.0.1",
   "unity": "2021.3",
   "author": 
   {
