@@ -90,7 +90,7 @@ namespace Threeyes.Core
             }
             else
             {
-                Debug.LogError("The data doesn't exist in List!");
+                Debug.LogError($"data [{data}] doesn't exist in List!");
             }
         }
 
